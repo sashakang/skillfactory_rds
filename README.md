@@ -1,6 +1,8 @@
 # skillfactory_rds
 DSPR-2 course
 
+*If you don't know what this is, may be you are in the wrong place)*
+
 Final test on PROJECT-1
 
 Quiz points: 27
